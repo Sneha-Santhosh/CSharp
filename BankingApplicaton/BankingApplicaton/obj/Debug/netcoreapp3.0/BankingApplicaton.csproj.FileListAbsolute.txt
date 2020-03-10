@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\obj\Debug\netcoreapp3.0\BankingApplicaton.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\obj\Debug\netcoreapp3.0\BankingApplicaton.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.exe
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.deps.json
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.dll
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\bin\Debug\netcoreapp3.0\BankingApplicaton.pdb
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\obj\Debug\netcoreapp3.0\BankingApplicaton.dll
+C:\Users\HP\Desktop\Assignment4\BankingApplicaton\BankingApplicaton\obj\Debug\netcoreapp3.0\BankingApplicaton.pdb
